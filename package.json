@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "Mern Demo",
   "private": true,
-  "proxy": "http://localhost:3001/",
   "dependencies": {
     "@apollo/react-hooks": "0.1.0-beta.7",
     "apollo-cache-inmemory": "^1.6.2",
