@@ -13,6 +13,7 @@
     "apollo-link-schema": "^1.2.4",
     "graphql": "^14.3.1",
     "graphql-tag": "^2.10.1",
+    "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
     "react": "^16.12.0",
